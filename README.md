@@ -58,31 +58,29 @@
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/)
 [![](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=groovy&logoColor=white)](https://www.groovy-lang.org/)
+[![](https://img.shields.io/badge/-Spring_cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io//)
 
- 
-     spring boot & spring cloud
  
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
 
 [![](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://julialang.org)
- 
 
 [![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
 
 #### Operations&Security Skill
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-Apache_Tomcat-D22128?style=flat-square&logo=apache&logoColor=ffffff)](https://www.apache.org/)
+[![](https://img.shields.io/badge/-WebLogic-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=ffffff)](https://www.jenkins.io/)
+[![](https://img.shields.io/badge/-ELK-005571?style=flat-square&logo=elastic&logoColor=ffffff)](https://www.elastic.co/)
 
-    padding:
-    jenkins
-    elk
-    apache etc..
 
 #### Security Skill
 
-    Pentest
+    cryptography
 
 #### Console&Game
 <!--![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)-->
