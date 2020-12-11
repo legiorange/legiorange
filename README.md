@@ -88,6 +88,8 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/legiorange)
 
  
+#### NAT Solution
+n2n>zerotier>frp>cpolar
  
  ----
 ![Legiorange's github stats](https://github-readme-stats.vercel.app/api?username=legiorange)
